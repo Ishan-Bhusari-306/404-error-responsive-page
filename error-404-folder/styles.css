@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400&display=swap');
+
+h2{
+font-family: 'Inconsolata', monospace;
+font-size: 3rem;
+}
+
+#message-1{
+  font-family: 'Inconsolata', monospace;
+font-size: 1.5rem;  
+}
+
+#message-2{
+font-family: 'Inconsolata', monospace;
+font-size: 4rem;
+
+}
+
+#message-div{
+    padding: 40px;
+}
+
+#message-3{
+font-family: 'Inconsolata', monospace;
+width: 300px;
+font-size: 20px;
+}
+
+#button{
+    height: 68px;
+    width: 216px;
+    color: white;
+    background-color: #333333;
+    border-color: mediumaquamarine;
+}
+
+#space{
+    margin-bottom: 50px;
+}
+
+.footer{
+    position: static;
+    width: 100%;
+    text-align: center;
+    color: rgb(75, 121, 158);
+    opacity: 0.5;
+    
+}
